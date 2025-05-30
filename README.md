@@ -48,8 +48,8 @@ Ce document présente le compte rendu détaillé du montage et de la configurati
 ### 1. **Cloner le Dépôt**
 
 ```bash
-git clone https://github.com/votre_nom_utilisateur/packet-tracer-atelier.git
-cd packet-tracer-atelier
+git clone https://github.com/votre_nom_utilisateur/stormshield.git
+cd stormshield
 ```
 
 ### 2. **Parcourir la Documentation**
