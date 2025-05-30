@@ -1,4 +1,4 @@
-# 🛡️ ** Découverte de Stormshield : Montage d’un pare‑feu**
+# 🛡️ **Découverte de Stormshield : Montage d’un pare‑feu**
 
 ![Banner](image/background.png)
 
